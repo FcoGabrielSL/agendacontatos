@@ -1,0 +1,4 @@
+#Thu Oct 01 11:10:25 BRT 2020
+base.0=C\:\\Users\\gabri\\OneDrive\\Arquivos\\Documentos\\GitHub\\agendacontatos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
